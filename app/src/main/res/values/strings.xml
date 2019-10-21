@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyPets</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">Tiếp</string>
+    <string name="skip">Bỏ qua</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello My Friends!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Here we have dogs</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Here we have cats</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">Take care of them!</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="gender_unknown">Không rõ</string>
+    <string name="gender_male">Hoàng Thượng</string>
+    <string name="gender_female">Thái Hậu</string>
+
+    <string name="more"><u>xem thêm</u></string>
+    <string name="facebook_app_id">YOUR FACEBOOK APP ID</string>
+
+</resources>
